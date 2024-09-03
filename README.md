@@ -1,4 +1,4 @@
-# GitContinuousDeployment
+# Git Continuous Deployment
 
 This project is a GitHub webhook listener for continuous deployment. It automatically pulls and deploys changes for configured projects when pushes are made to specified branches.
 
